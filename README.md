@@ -1,2 +1,2 @@
 # Classroom-Attendance-Tracker
-                 <p> The Classroom Attendance Tracker is a Python-based project designed to simplify and automate   the   process of marking and managing student attendance. Traditional manual methods are often time-consuming and error-prone. This system allows subject-wise attendance recording, editing, and reporting, making it easier for teachers to maintain accurate records. It enhances efficiency and accuracy, especially in educational environments with frequent lectures and multiple subjects.</p>
+                
